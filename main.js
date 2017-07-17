@@ -10,7 +10,7 @@ function displayInfo(){
 	let info = ''
 
 		info += `
-			<header class="head">${item.name}</header>
+			<div class="head">${item.name}</div>
 			<div class="columnContianer">
 				<div class="leftColumn">
 					<h2>The Basics</h2>
